@@ -30,3 +30,4 @@ le repo a été envoyé cependant il y a un probleme au niveau du code qui me fa
 failed to solve: process "/bin/sh -c npm run build" did not complete successfully: exit code: 1
 
 
+encore de reglage ... c'est un projet qu'on ma passé comme je n'avais plus de proj sur un changement de poste
